@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zannx
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# and Assembly x86
+- 🌱 I’m currently learning C#
 - 📫 zanluka.artic@gmail.com
 
 <!---
